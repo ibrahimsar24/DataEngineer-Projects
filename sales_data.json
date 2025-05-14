@@ -1,0 +1,17 @@
+[
+  {
+    "store_id": "S1",
+    "location": "Delhi",
+    "sales": [
+      {"sale_id": "X1", "amount": 5000, "date": "2024-05-01"},
+      {"sale_id": "X2", "amount": 7200, "date": "2024-05-02"}
+    ]
+  },
+  {
+    "store_id": "S2",
+    "location": "Mumbai",
+    "sales": [
+      {"sale_id": "X3", "amount": 4100, "date": "2024-05-01"}
+    ]
+  }
+]
