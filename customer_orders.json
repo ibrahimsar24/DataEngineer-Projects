@@ -1,0 +1,19 @@
+[
+  {
+    "customer_id": 101,
+    "name": "Rahul",
+    "email": "rahul@example.com",
+    "orders": [
+      {"order_id": 5001, "amount": 2500, "date": "2024-05-01"},
+      {"order_id": 5002, "amount": 1800, "date": "2024-05-10"}
+    ]
+  },
+  {
+    "customer_id": 102,
+    "name": "Meena",
+    "email": "meena@example.com",
+    "orders": [
+      {"order_id": 5003, "amount": 3200, "date": "2024-05-05"}
+    ]
+  }
+]
